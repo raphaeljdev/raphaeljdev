@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Olá,%20bem%20vindo(a)!&section=header&reversal=false&textBg=false&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?text=Olá%20quinzão!&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
