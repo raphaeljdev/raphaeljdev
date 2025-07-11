@@ -8,7 +8,7 @@
 - 📫 Como me encontrar: [https://www.linkedin.com/in/raphaelskrr/]
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
 
