@@ -7,8 +7,9 @@
 - 🌱 Aprendendo Back-End!
 - 📫 Como me encontrar: [https://www.linkedin.com/in/raphaelskrr/]
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs)
+
 
