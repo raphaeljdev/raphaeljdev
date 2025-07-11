@@ -5,4 +5,7 @@
 ### Olá 👋, eu sou o Raphael
 - 🔭 Trabalhando com programação e robótica!
 - 🌱 Aprendendo Back-End!
-- 📫 Como me encontrar: https://www.linkedin.com/in/raphaelskrr/
+- 📫 Como me encontrar: [https://www.linkedin.com/in/raphaelskrr/]
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+
